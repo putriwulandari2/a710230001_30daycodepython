@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 class Buku:
     def __init__(self, judul, pengarang, tahun_terbit, jumlah_halaman):
         self.judul = judul
@@ -19,7 +18,7 @@ buku2 = Buku("Suara dari Dilan", "Pidi Baiq", 2016, 360)
 buku1.informasi()
 buku2.informasi()
 buku1.tambah_halaman(50)
-=======
+
 class Buku:
     def __init__(self, judul, pengarang, tahun_terbit, jumlah_halaman):
         self.judul = judul
@@ -40,4 +39,4 @@ buku2 = Buku("Suara dari Dilan", "Pidi Baiq", 2016, 360)
 buku1.informasi()
 buku2.informasi()
 buku1.tambah_halaman(50)
->>>>>>> 98801bccff3673a84c6cc4907290048ae5e92c30
+
